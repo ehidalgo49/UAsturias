@@ -12,10 +12,7 @@ public class MaxAdjSum {
         return maxSum;
     }
 
-    public void init(){
-
-        int[] numbers = {3, 6, -2, -5, 7, 8};
+    public void init(int[] numbers){
         System.out.println(calculate(numbers));
-        // Output: 15
     }
 }
