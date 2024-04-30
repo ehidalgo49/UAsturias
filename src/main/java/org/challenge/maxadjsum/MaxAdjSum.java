@@ -16,6 +16,6 @@ public class MaxAdjSum {
 
         int[] numbers = {3, 6, -2, -5, 7, 8};
         System.out.println(calculate(numbers));
-        // Output: 10
+        // Output: 15
     }
 }
